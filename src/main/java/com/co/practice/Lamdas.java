@@ -2,6 +2,11 @@ package com.co.practice;
 
 import java.io.*;
 import java.util.*;
+
+
+/**
+ * https://www.hackerrank.com/challenges/java-lambda-expressions/problem?isFullScreen=true
+ */
 interface PerformOperation {
     boolean check(int a);
 }
